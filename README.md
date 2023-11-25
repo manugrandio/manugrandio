@@ -1,7 +1,7 @@
 ### Hey, I'm Manu 👋
 
 I'm a backend engineer working at [Centric Software](https://www.centricsoftware.com/).
-Other companies I worked for include [Meta](https://www.meta.com), [Kustomer](https://www.kustomer.com/), [Reply.ai](https://reply.ai) and [Nayar Systems](https://www.nayarsystems.com/).
+Other companies I worked for include [Meta](https://www.meta.com), [Kustomer](https://www.kustomer.com/), [Reply.ai](https://reply.ai), [Nayar Systems](https://www.nayarsystems.com/) and [CERN](https://home.cern/).
 
 #### Technologies I have experience with 💁‍♂️
 
